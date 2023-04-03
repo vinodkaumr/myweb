@@ -1,6 +1,6 @@
 <html>
 <body>
-	<h1 style="color: green; font-size: 40px;" align="center"> new automation tool learning </h1>
-	<h1 style="color: yellow; font-size: 55px;" align="center"> today practice section </h1>
+	<h1 style="color: red; font-size: 40px;" align="center"> searching new one </h1>
+	<h1 style="color: black; font-size: 55px;" align="center"> today practice pipeline </h1>
 </body>
 </html>
